@@ -1,0 +1,74 @@
+{
+    "profile": "Breakbot, originally featuring French electro producer and DJ Thiabut Berland, is now a duo featuring Berland and collaborator Irfane.\r\n\r\nBorn Thibaut Berland in 1981, he went on to study graphic design at Supinfocom, a computer graphics university. It was around this time that he got into making music and producing and directing short films. One of these short films “Overtime with Oury Atlan and Damien Ferrié” went on to win \"Best Graduate Film\" in 2005 at Ottawa International Animation Festival, as well as being awarded \"Young Animation Award\" in 2006 at the Internationales Trickfilmfestival Stuttgart. After leaving university Berland began producing advertisements and videos.\r\n\r\nMeanwhile, he continued to work on his solo music projects. He initially made a name for himself in 2006 with a remix of Justice's \"Let There Be Light\" that was included on the Waters of Nazareth EP released in Japan.\r\n\r\nIn 2007 Breakbot made his production debut with the Happy Rabbit EP on the Klee label. In the meantime, he established himself as an in-demand remixer, working on tracks by Digitalism, Sebastien Tellier, Röyksopp, and many others.\r\n\r\nIn May 2009 Breakbot signed with Ed Banger Records and in 2010 made his production debut with the Baby I'm Yours EP.\r\n\r\nIn 2015, ahead of his new album, \"Still Waters\", Thiabut Berland announced that Breakbot is officially now a duo, featuring himself and longtime collaborator Irfane. Their new album as a duo came out on 5th Feb 2016.",
+    "urls": [
+        "http://www.facebook.com/breakbot",
+        "http://instagram.com/breakbot",
+        "http://www.myspace.com/dothefunkybot",
+        "http://twitter.com/breakbot",
+        "http://www.edbangerrecords.com/site/breakbot/",
+        "https://soundcloud.com/breakbot",
+        "http://www.setlist.fm/setlists/breakbot-23d7f843.html",
+        "https://www.songkick.com/artists/604584-breakbot",
+        "http://www.last.fm/music/Breakbot",
+        "http://www.whosampled.com/Breakbot/",
+        "https://en.wikipedia.org/wiki/Breakbot"
+    ],
+    "releases_url": "https://api.discogs.com/artists/703690/releases",
+    "name": "Breakbot",
+    "uri": "https://www.discogs.com/artist/703690-Breakbot",
+    "realname": "Thibaut Berland & Christopher Irfan Khan-Acito",
+    "members": [
+        {
+            "active": true,
+            "resource_url": "https://api.discogs.com/artists/166504",
+            "id": 166504,
+            "name": "Irfane"
+        },
+        {
+            "active": true,
+            "resource_url": "https://api.discogs.com/artists/1800841",
+            "id": 1800841,
+            "name": "Thibaut Berland"
+        }
+    ],
+    "images": [
+        {
+            "uri": "https://api-img.discogs.com/IanXJYBChlPEr33_BuYrzCAAouo=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1454682422-8103.jpeg.jpg",
+            "height": 500,
+            "width": 500,
+            "resource_url": "https://api-img.discogs.com/IanXJYBChlPEr33_BuYrzCAAouo=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1454682422-8103.jpeg.jpg",
+            "type": "primary",
+            "uri150": "https://api-img.discogs.com/4Yt36CqS3ktuk5jRY6aaXXqEByU=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-703690-1454682422-8103.jpeg.jpg"
+        },
+        {
+            "uri": "https://api-img.discogs.com/0LOJSDNPDdhltpWBDOG_reClY0I=/404x530/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1266420842.jpeg.jpg",
+            "height": 530,
+            "width": 404,
+            "resource_url": "https://api-img.discogs.com/0LOJSDNPDdhltpWBDOG_reClY0I=/404x530/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1266420842.jpeg.jpg",
+            "type": "secondary",
+            "uri150": "https://api-img.discogs.com/70bB9OllzR4l6punAeIDkBglsv4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-703690-1266420842.jpeg.jpg"
+        },
+        {
+            "uri": "https://api-img.discogs.com/lOcHJC5ChOGdeV3QfTzHFfheha4=/600x337/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1454671405-5843.jpeg.jpg",
+            "height": 337,
+            "width": 600,
+            "resource_url": "https://api-img.discogs.com/lOcHJC5ChOGdeV3QfTzHFfheha4=/600x337/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1454671405-5843.jpeg.jpg",
+            "type": "secondary",
+            "uri150": "https://api-img.discogs.com/Qqm120MnoUdrzYlIOiRici0Os4w=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-703690-1454671405-5843.jpeg.jpg"
+        },
+        {
+            "uri": "https://api-img.discogs.com/15aKmfoerr95Tpm8z4L95xvoQxo=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1454671405-2266.jpeg.jpg",
+            "height": 500,
+            "width": 500,
+            "resource_url": "https://api-img.discogs.com/15aKmfoerr95Tpm8z4L95xvoQxo=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-703690-1454671405-2266.jpeg.jpg",
+            "type": "secondary",
+            "uri150": "https://api-img.discogs.com/RHILkCwj1hqbugyayC0KZHF-LjQ=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-703690-1454671405-2266.jpeg.jpg"
+        }
+    ],
+    "resource_url": "https://api.discogs.com/artists/703690",
+    "id": 703690,
+    "data_quality": "Needs Vote",
+    "namevariations": [
+        "Breakb♡t"
+    ]
+}

@@ -1,0 +1,1733 @@
+{
+    "pagination": {
+        "per_page": 50,
+        "pages": 6,
+        "page": 1,
+        "urls": {
+            "last": "https://api.discogs.com/database/search?q=breakbot&per_page=50&params=artist&page=6",
+            "next": "https://api.discogs.com/database/search?q=breakbot&per_page=50&params=artist&page=2"
+        },
+        "items": 299
+    },
+    "results": [
+        {
+            "thumb": "https://api-img.discogs.com/4Yt36CqS3ktuk5jRY6aaXXqEByU=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-703690-1454682422-8103.jpeg.jpg",
+            "title": "Breakbot",
+            "uri": "/artist/703690-Breakbot",
+            "resource_url": "https://api.discogs.com/artists/703690",
+            "type": "artist",
+            "id": 703690
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/djOnD6SeIHsIytC8P1OOjLMLlJ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5369076-1391680804-6326.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "Compilation",
+                "Mixed",
+                "Mixtape"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Breakbot-Mixtape-October-2012/release/5369076",
+            "community": {
+                "want": 0,
+                "have": 7
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "none",
+            "year": "2012",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Breakbot Mixtape October 2012",
+            "resource_url": "https://api.discogs.com/releases/5369076",
+            "type": "release",
+            "id": 5369076
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/YngOu4hOBIYK4uH3farKGwGYKG4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3899772-1348587481-3436.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "CD",
+                "Album"
+            ],
+            "country": "France",
+            "barcode": [
+                "5060281612595",
+                "SACEM SACD SDRM SGDL",
+                "IFPI 1288",
+                "IFPI LY88",
+                "CA BEC5161258 @@",
+                "MPO BEC5161259A ωT BY BNJ",
+                "MPO BEC5161259B",
+                "MPO ωT BY BNJ BEC5161259C",
+                "MPO BEC5161259D"
+            ],
+            "uri": "/Breakbot-By-Your-Side/release/3899772",
+            "community": {
+                "want": 409,
+                "have": 872
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Because Music",
+                "MPO",
+                "Ed Banger Records",
+                "Ed Banger Records"
+            ],
+            "catno": "BEC5161259",
+            "year": "2012",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/3899772",
+            "type": "release",
+            "id": 3899772
+        },
+        {
+            "style": [
+                "Disco",
+                "House"
+            ],
+            "thumb": "https://api-img.discogs.com/Hp4Zu0EEQK2GosNGjPo3B0dt-I8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5282515-1389533283-4073.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "France",
+            "barcode": [
+                "5060281612588",
+                "IFPI LY88 8/6/2012 5:53:06 PM 0000853022",
+                "IFPI 1288",
+                "CA BEC5161258 @@",
+                "SACEM",
+                "B008G12ET0"
+            ],
+            "uri": "/Breakbot-By-Your-Side/master/474145",
+            "community": {
+                "want": 769,
+                "have": 1075
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "MPO"
+            ],
+            "catno": "BEC5161258",
+            "year": "2012",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/masters/474145",
+            "type": "master",
+            "id": 474145
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/PWJOrjbHPeOVdr0aPnMO0vPcgeM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2146190-1266518340.png.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 ⅓ RPM"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/master/226841",
+            "community": {
+                "want": 541,
+                "have": 351
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Motorbass Studio"
+            ],
+            "catno": "ED034",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/masters/226841",
+            "type": "master",
+            "id": 226841
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/PWJOrjbHPeOVdr0aPnMO0vPcgeM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2146190-1266518340.png.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 ⅓ RPM"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/release/2146190",
+            "community": {
+                "want": 407,
+                "have": 250
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Motorbass Studio"
+            ],
+            "catno": "ED034",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/2146190",
+            "type": "release",
+            "id": 2146190
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/5ExGwsAYhMPfZHOcJe1aWsRDorg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2328387-1277241204.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "10\"",
+                "EP"
+            ],
+            "country": "France",
+            "barcode": [
+                "5060107726796"
+            ],
+            "uri": "/Breakbot-Baby-Im-Yours-Remix-EP/release/2328387",
+            "community": {
+                "want": 202,
+                "have": 128
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED034.2",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours Remix EP",
+            "resource_url": "https://api.discogs.com/releases/2328387",
+            "type": "release",
+            "id": 2328387
+        },
+        {
+            "style": [
+                "Electro",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/VSAA1VOxVa0P1ZXJfX-ANZU5mc4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2949193-1309429610.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "EP",
+                "12\""
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060107 729056",
+                "5060107729056"
+            ],
+            "uri": "/Breakbot-Fantasy/release/2949193",
+            "community": {
+                "want": 154,
+                "have": 137
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "ED049",
+            "year": "2011",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Fantasy",
+            "resource_url": "https://api.discogs.com/releases/2949193",
+            "type": "release",
+            "id": 2949193
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/5ExGwsAYhMPfZHOcJe1aWsRDorg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2328387-1277241204.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "10\"",
+                "EP"
+            ],
+            "country": "France",
+            "barcode": [
+                "5060107726796"
+            ],
+            "uri": "/Breakbot-Baby-Im-Yours-Remix-EP/master/262458",
+            "community": {
+                "want": 221,
+                "have": 156
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED034.2",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours Remix EP",
+            "resource_url": "https://api.discogs.com/masters/262458",
+            "type": "master",
+            "id": 262458
+        },
+        {
+            "style": [
+                "Electro"
+            ],
+            "thumb": "https://api-img.discogs.com/GMWwqxQ51zag8wZb2X3hHSMR5IU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4116546-1355779521-1591.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "Single"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Para-One-When-The-Night-Breakbot-Remix/release/4116546",
+            "community": {
+                "want": 1,
+                "have": 9
+            },
+            "label": [
+                "Marble",
+                "Because Music"
+            ],
+            "catno": "MRBL016",
+            "year": "2012",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Para One - When The Night (Breakbot Remix)",
+            "resource_url": "https://api.discogs.com/releases/4116546",
+            "type": "release",
+            "id": 4116546
+        },
+        {
+            "style": [
+                "Electro",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/VSAA1VOxVa0P1ZXJfX-ANZU5mc4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2949193-1309429610.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "EP",
+                "12\""
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060107 729056",
+                "5060107729056"
+            ],
+            "uri": "/Breakbot-Fantasy/master/346598",
+            "community": {
+                "want": 180,
+                "have": 155
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "ED049",
+            "year": "2011",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Fantasy",
+            "resource_url": "https://api.discogs.com/masters/346598",
+            "type": "master",
+            "id": 346598
+        },
+        {
+            "style": [
+                "Soft Rock",
+                "Downtempo"
+            ],
+            "thumb": "https://api-img.discogs.com/CC9tWb4PfnmXFi0TQWMEsVMRQpM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4612863-1369932614-5579.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3"
+            ],
+            "country": "Unknown",
+            "barcode": [],
+            "uri": "/Phoenix-Trying-To-Be-Cool-Breakbot-Remix/release/4612863",
+            "community": {
+                "want": 2,
+                "have": 12
+            },
+            "label": [
+                "Not On Label (Phoenix Self-released)"
+            ],
+            "catno": "none",
+            "year": "2013",
+            "genre": [
+                "Electronic",
+                "Rock",
+                "Pop"
+            ],
+            "title": "Phoenix - Trying To Be Cool (Breakbot Remix)",
+            "resource_url": "https://api.discogs.com/releases/4612863",
+            "type": "release",
+            "id": 4612863
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/kswY0Kqm7VHsRiSprr7TmfP6SH8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4391638-1444586559-3214.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 ⅓ RPM",
+                "Single Sided",
+                "Limited Edition"
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060281 612779"
+            ],
+            "uri": "/Breakbot-By-Your-Side/release/4391638",
+            "community": {
+                "want": 213,
+                "have": 16
+            },
+            "label": [
+                "Because Music",
+                "Ed Banger Records"
+            ],
+            "catno": "BEC5161277",
+            "year": "2012",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/4391638",
+            "type": "release",
+            "id": 4391638
+        },
+        {
+            "style": [
+                "Disco",
+                "Nu-Disco",
+                "Downtempo"
+            ],
+            "thumb": "https://api-img.discogs.com/EmY0rTSB5j1n4FmV6p_Pfz4PhZ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8075429-1454675344-5858.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "CD",
+                "Album",
+                "All Media",
+                "Limited Edition"
+            ],
+            "country": "France",
+            "barcode": [
+                "B019FYS8VO",
+                "5 060421 562919"
+            ],
+            "uri": "/Breakbot-Still-Waters/release/8075429",
+            "community": {
+                "want": 153,
+                "have": 245
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "Audiotape Studios",
+                "Translab",
+                "Translab",
+                "MPO"
+            ],
+            "catno": "EDLP2016-1",
+            "year": "2016",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Still Waters",
+            "resource_url": "https://api.discogs.com/releases/8075429",
+            "type": "release",
+            "id": 8075429
+        },
+        {
+            "style": [
+                "New Age",
+                "IDM",
+                "Experimental"
+            ],
+            "thumb": "https://api-img.discogs.com/qLXX0rM2J4sj-_SI1iQFbF0wwB8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1047814-1187921828.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "Single"
+            ],
+            "country": "UK",
+            "barcode": [],
+            "uri": "/Breakbot-Happy-Rabbit-Summer-Party/master/167128",
+            "community": {
+                "want": 129,
+                "have": 46
+            },
+            "label": [
+                "Moshi Moshi Records",
+                "Moshi Moshi Records",
+                "Moshi Moshi Records",
+                "Studio Guymok"
+            ],
+            "catno": "MOMO5",
+            "year": "2007",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - Happy Rabbit / Summer Party",
+            "resource_url": "https://api.discogs.com/masters/167128",
+            "type": "master",
+            "id": 167128
+        },
+        {
+            "style": [
+                "Synth-pop",
+                "House"
+            ],
+            "thumb": "https://api-img.discogs.com/9We4mlihkIjcFvilshQ9h086tOw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7826850-1449607440-5889.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "Single"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Get-Lost/master/927011",
+            "community": {
+                "want": 72,
+                "have": 123
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED089",
+            "year": "2015",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Get Lost",
+            "resource_url": "https://api.discogs.com/masters/927011",
+            "type": "master",
+            "id": 927011
+        },
+        {
+            "style": [
+                "Synth-pop"
+            ],
+            "thumb": "https://api-img.discogs.com/_veOUrbaO83xiXWddu3kr8ikYuo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8398377-1460837323-3324.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 ⅓ RPM",
+                "Single",
+                "Limited Edition"
+            ],
+            "country": "UK & Europe",
+            "barcode": [
+                "5 060421 562902"
+            ],
+            "uri": "/Breakbot-Get-Lost-Remixes/release/8398377",
+            "community": {
+                "want": 36,
+                "have": 89
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "MPO",
+                "Because Music",
+                "Translab",
+                "Audiotape Studios"
+            ],
+            "catno": "ED093",
+            "year": "2016",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - Get Lost (Remixes)",
+            "resource_url": "https://api.discogs.com/releases/8398377",
+            "type": "release",
+            "id": 8398377
+        },
+        {
+            "style": [
+                "Electro"
+            ],
+            "thumb": "https://api-img.discogs.com/EY5ss-DeFjryZd1TE56vTRqrtOg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1522372-1226379848.jpeg.jpg",
+            "format": [
+                "CD",
+                "EP"
+            ],
+            "country": "Australia",
+            "barcode": [],
+            "uri": "/Breakbot-Happy-Rabbit-EP/master/256845",
+            "community": {
+                "want": 58,
+                "have": 20
+            },
+            "label": [
+                "Timberyard Records"
+            ],
+            "catno": "T3328",
+            "year": "2008",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Happy Rabbit EP",
+            "resource_url": "https://api.discogs.com/masters/256845",
+            "type": "master",
+            "id": 256845
+        },
+        {
+            "style": [
+                "New Age",
+                "IDM",
+                "Experimental"
+            ],
+            "thumb": "https://api-img.discogs.com/qLXX0rM2J4sj-_SI1iQFbF0wwB8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1047814-1187921828.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "Single"
+            ],
+            "country": "UK",
+            "barcode": [],
+            "uri": "/Breakbot-Happy-Rabbit-Summer-Party/release/1047814",
+            "community": {
+                "want": 113,
+                "have": 40
+            },
+            "label": [
+                "Moshi Moshi Records",
+                "Moshi Moshi Records",
+                "Moshi Moshi Records",
+                "Studio Guymok"
+            ],
+            "catno": "MOMO5",
+            "year": "2007",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - Happy Rabbit / Summer Party",
+            "resource_url": "https://api.discogs.com/releases/1047814",
+            "type": "release",
+            "id": 1047814
+        },
+        {
+            "style": [
+                "Disco",
+                "House"
+            ],
+            "thumb": "https://api-img.discogs.com/Hp4Zu0EEQK2GosNGjPo3B0dt-I8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5282515-1389533283-4073.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "France",
+            "barcode": [
+                "5060281612588",
+                "IFPI LY88 8/6/2012 5:53:06 PM 0000853022",
+                "IFPI 1288",
+                "CA BEC5161258 @@",
+                "SACEM",
+                "B008G12ET0"
+            ],
+            "uri": "/Breakbot-By-Your-Side/release/5282515",
+            "community": {
+                "want": 25,
+                "have": 60
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "MPO"
+            ],
+            "catno": "BEC5161258",
+            "year": "2012",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/5282515",
+            "type": "release",
+            "id": 5282515
+        },
+        {
+            "style": [
+                "Disco",
+                "Nu-Disco",
+                "Downtempo"
+            ],
+            "thumb": "https://api-img.discogs.com/qXYXq65a2vMmJldshIP3OkSGuu0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8537443-1463597156-7984.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "CD",
+                "Album"
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060421 564647"
+            ],
+            "uri": "/Breakbot-Still-Waters/release/8537443",
+            "community": {
+                "want": 67,
+                "have": 65
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "Audiotape Studios",
+                "Translab",
+                "Translab",
+                "MPO"
+            ],
+            "catno": "EDLP2016-1",
+            "year": "2016",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Still Waters",
+            "resource_url": "https://api.discogs.com/releases/8537443",
+            "type": "release",
+            "id": 8537443
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/lS6xNl9bSgkfe7KntYP2JUZ57Ls=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-By-Your-Side/release/3883053",
+            "community": {
+                "want": 33,
+                "have": 84
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "MPO"
+            ],
+            "catno": "BEC5161258",
+            "year": "2012",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/3883053",
+            "type": "release",
+            "id": 3883053
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/SFlihfjZ0WhR_7wc59nHVfHlrUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7836411-1452762121-7327.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "10\"",
+                "33 ⅓ RPM"
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060421 562964",
+                "5060421562964"
+            ],
+            "uri": "/Breakbot-Get-Lost/release/7836411",
+            "community": {
+                "want": 52,
+                "have": 119
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Audiotape Studios",
+                "Translab"
+            ],
+            "catno": "ED089",
+            "year": "2015",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Get Lost",
+            "resource_url": "https://api.discogs.com/releases/7836411",
+            "type": "release",
+            "id": 7836411
+        },
+        {
+            "style": [
+                "Nu-Disco",
+                "Electro House"
+            ],
+            "thumb": "https://api-img.discogs.com/uFRZj5jcbhac6Q6Hj7a_EdsbOkU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9211007-1476724771-3290.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "EP"
+            ],
+            "country": "France",
+            "barcode": [
+                "B01LSOF3X0",
+                "5060421566085"
+            ],
+            "uri": "/Breakbot-2good4me-My-Toy-Remixes/release/9211007",
+            "community": {
+                "want": 24,
+                "have": 38
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Headbangers Publishing",
+                "Because Editions"
+            ],
+            "catno": "ED094",
+            "year": "2016",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - 2good4me / My Toy (Remixes)",
+            "resource_url": "https://api.discogs.com/releases/9211007",
+            "type": "release",
+            "id": 9211007
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/S8AUVtuEPv0-fKBiAvbQEFnuQck=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9909292-1488368896-1283.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "33 ⅓ RPM",
+                "Reissue"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/release/9909292",
+            "community": {
+                "want": 32,
+                "have": 59
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Motorbass Studio"
+            ],
+            "catno": "ED034",
+            "year": "2017",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/9909292",
+            "type": "release",
+            "id": 9909292
+        },
+        {
+            "style": [
+                "Disco",
+                "Nu-Disco",
+                "Downtempo"
+            ],
+            "thumb": "https://api-img.discogs.com/WM4tq7iQCxtaTTaKTkcUeCg0emw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8111567-1455364918-3232.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060421 562296",
+                "SPPF",
+                "SACEM",
+                "CA BEC5156292 @"
+            ],
+            "uri": "/Breakbot-Still-Waters/master/954244",
+            "community": {
+                "want": 257,
+                "have": 353
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "Audiotape Studios",
+                "Translab",
+                "MPO"
+            ],
+            "catno": "BEC5156292",
+            "year": "2016",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Still Waters",
+            "resource_url": "https://api.discogs.com/masters/954244",
+            "type": "master",
+            "id": 954244
+        },
+        {
+            "style": [
+                "Electro",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/Deq3ATtjP2PatJOQhK1m7UAFn-s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1472805-1334429486.jpeg.jpg",
+            "format": [
+                "CD",
+                "EP"
+            ],
+            "country": "Japan",
+            "barcode": [],
+            "uri": "/Breakbot-Happy-Rabbit/release/1472805",
+            "community": {
+                "want": 37,
+                "have": 15
+            },
+            "label": [
+                "Klee",
+                "Moshi Moshi Records",
+                "Studio Guymok"
+            ],
+            "catno": "KLCD021",
+            "year": "2007",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Happy Rabbit",
+            "resource_url": "https://api.discogs.com/releases/1472805",
+            "type": "release",
+            "id": 1472805
+        },
+        {
+            "style": [
+                "Soul",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/PD2Yb-S4SQPsSLcr66zDQQge1ns=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3144531-1317823904.png.jpg",
+            "format": [
+                "CDr",
+                "Compilation",
+                "Mixed",
+                "Mixtape",
+                "Promo"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-The-Lazy-Sunday-Selecta/master/650607",
+            "community": {
+                "want": 62,
+                "have": 13
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "none",
+            "year": "2011",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - The Lazy Sunday Selecta",
+            "resource_url": "https://api.discogs.com/masters/650607",
+            "type": "master",
+            "id": 650607
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/WMDW7EYy79Z2aFQkquQ1sIcEmG4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2146202-1266518770.png.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "Maxi-Single"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/release/2146202",
+            "community": {
+                "want": 35,
+                "have": 28
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED034",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/2146202",
+            "type": "release",
+            "id": 2146202
+        },
+        {
+            "style": [
+                "Soul",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/PD2Yb-S4SQPsSLcr66zDQQge1ns=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3144531-1317823904.png.jpg",
+            "format": [
+                "CDr",
+                "Compilation",
+                "Mixed",
+                "Mixtape",
+                "Promo"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-The-Lazy-Sunday-Selecta/release/3144531",
+            "community": {
+                "want": 54,
+                "have": 6
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "none",
+            "year": "2011",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - The Lazy Sunday Selecta",
+            "resource_url": "https://api.discogs.com/releases/3144531",
+            "type": "release",
+            "id": 3144531
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/thmAMrhMhEmyrsl2kZjfeDsIm3g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2476959-1286198598.jpeg.jpg",
+            "format": [
+                "CD",
+                "Single",
+                "Promo"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/release/2476959",
+            "community": {
+                "want": 11,
+                "have": 17
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Headbangers Publishing",
+                "Because Editions"
+            ],
+            "catno": "ED034.2",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/2476959",
+            "type": "release",
+            "id": 2476959
+        },
+        {
+            "style": [
+                "Disco",
+                "Nu-Disco",
+                "Downtempo"
+            ],
+            "thumb": "https://api-img.discogs.com/Pp5NDIS8o2Bvwcm04-r1ZPqtc2k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8192875-1456866548-6670.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "Europe",
+            "barcode": [
+                "825646483464",
+                "LC 13950"
+            ],
+            "uri": "/Breakbot-Still-Waters/release/8192875",
+            "community": {
+                "want": 10,
+                "have": 14
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Warner Music International",
+                "Audiotape Studios",
+                "Translab"
+            ],
+            "catno": "2564648346",
+            "year": "2016",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Still Waters",
+            "resource_url": "https://api.discogs.com/releases/8192875",
+            "type": "release",
+            "id": 8192875
+        },
+        {
+            "style": [
+                "Electro",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/YA4316On8FleYDDckRp-EGXn6yg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2980371-1310227571.jpeg.jpg",
+            "format": [
+                "CDr",
+                "EP",
+                "Promo"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Fantasy/release/2980371",
+            "community": {
+                "want": 12,
+                "have": 7
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED049",
+            "year": "2011",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Fantasy",
+            "resource_url": "https://api.discogs.com/releases/2980371",
+            "type": "release",
+            "id": 2980371
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/aHOGofxATPpOAEbuLIzGj0_BuAw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5068076-1383622344-2975.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "US",
+            "barcode": [
+                "075597959291"
+            ],
+            "uri": "/Breakbot-By-Your-Side/release/5068076",
+            "community": {
+                "want": 27,
+                "have": 24
+            },
+            "label": [
+                "Ed Banger Records",
+                "Sire Records"
+            ],
+            "catno": "534568-2",
+            "year": "2012",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/5068076",
+            "type": "release",
+            "id": 5068076
+        },
+        {
+            "style": [
+                "Disco",
+                "Funk"
+            ],
+            "thumb": "https://api-img.discogs.com/yBTqwaAgh5ixMUd22bych49aJlQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7626962-1452812459-2033.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "Australia",
+            "barcode": [
+                "0825646558094",
+                "256465580-9 V01 YLQ IFPI L016"
+            ],
+            "uri": "/Breakbot-By-Your-Side/release/7626962",
+            "community": {
+                "want": 15,
+                "have": 6
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "2564655809",
+            "year": "2012",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/7626962",
+            "type": "release",
+            "id": 7626962
+        },
+        {
+            "style": [
+                "House",
+                "Tech House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/_StUk5gUPR980CTLZ0ZXv1qyeKo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3819223-1345655021-1595.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-One-Out-Of-Two/release/3819223",
+            "community": {
+                "want": 8,
+                "have": 9
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED065",
+            "year": "2012",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - One Out Of Two",
+            "resource_url": "https://api.discogs.com/releases/3819223",
+            "type": "release",
+            "id": 3819223
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/_EuxloIf0ifQJXXGyVyPjayELJ4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3442782-1330559812.jpeg.jpg",
+            "format": [
+                "CD",
+                "Single",
+                "Promo"
+            ],
+            "country": "France",
+            "barcode": [
+                "9204 3A D 24229"
+            ],
+            "uri": "/Breakbot-Baby-Im-Yours/release/3442782",
+            "community": {
+                "want": 37,
+                "have": 8
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "ED034",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/3442782",
+            "type": "release",
+            "id": 3442782
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/wx93ku1LBRVWTcsqYaI88wP48vs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4232999-1369794563-1774.jpeg.jpg",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "country": "Japan",
+            "barcode": [
+                "4 943674 124633",
+                "4943674124633"
+            ],
+            "uri": "/Breakbot-By-Your-Side/release/4232999",
+            "community": {
+                "want": 30,
+                "have": 12
+            },
+            "label": [
+                "Ed Banger Records",
+                "Warner Music Japan Inc."
+            ],
+            "catno": "WPCR-14614",
+            "year": "2012",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/4232999",
+            "type": "release",
+            "id": 4232999
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/i4y9FW4boLOCwldMhou-EX0X7CA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8967224-1472420053-4936.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "10\"",
+                "Test Pressing"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Get-lost/release/8967224",
+            "community": {
+                "want": 14,
+                "have": 1
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "BEC5156296",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Get lost",
+            "resource_url": "https://api.discogs.com/releases/8967224",
+            "type": "release",
+            "id": 8967224
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "",
+            "format": [
+                "File",
+                "FLAC"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/release/5230260",
+            "community": {
+                "want": 15,
+                "have": 2
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "BEC5772699",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/5230260",
+            "type": "release",
+            "id": 5230260
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/nuqLfZckKIGcLIn2dLfCritebGE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4635414-1370727979-4729.jpeg.jpg",
+            "format": [
+                "CDr",
+                "Album",
+                "Promo"
+            ],
+            "country": "UK",
+            "barcode": [],
+            "uri": "/Breakbot-By-Your-Side/release/4635414",
+            "community": {
+                "want": 17,
+                "have": 1
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "none",
+            "year": "2012",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - By Your Side",
+            "resource_url": "https://api.discogs.com/releases/4635414",
+            "type": "release",
+            "id": 4635414
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/JVhwFTdEaMd6HbQz4W1H4V0LfF0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3673758-1343763308-1775.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "Maxi-Single"
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060281 612328"
+            ],
+            "uri": "/Breakbot-Featuring-Irfane-One-Out-Of-Two/master/464823",
+            "community": {
+                "want": 104,
+                "have": 199
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "Headbangers Publishing",
+                "Because Editions"
+            ],
+            "catno": "ED065",
+            "year": "2012",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot Featuring Irfane - One Out Of Two",
+            "resource_url": "https://api.discogs.com/masters/464823",
+            "type": "master",
+            "id": 464823
+        },
+        {
+            "style": [
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/4x0WcD2k_5aR669DeRACBTaCufk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4119790-1355936476-8397.png.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "Promo"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Programme/release/4119790",
+            "community": {
+                "want": 0,
+                "have": 10
+            },
+            "label": [
+                "Ed Banger Records"
+            ],
+            "catno": "ED061",
+            "year": "2012",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Programme",
+            "resource_url": "https://api.discogs.com/releases/4119790",
+            "type": "release",
+            "id": 4119790
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/JVhwFTdEaMd6HbQz4W1H4V0LfF0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3673758-1343763308-1775.jpeg.jpg",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "Maxi-Single"
+            ],
+            "country": "France",
+            "barcode": [
+                "5 060281 612328"
+            ],
+            "uri": "/Breakbot-Featuring-Irfane-One-Out-Of-Two/release/3673758",
+            "community": {
+                "want": 89,
+                "have": 186
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music",
+                "Ed Banger Records",
+                "Ed Banger Records",
+                "Because Music",
+                "Headbangers Publishing",
+                "Because Editions"
+            ],
+            "catno": "ED065",
+            "year": "2012",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot Featuring Irfane - One Out Of Two",
+            "resource_url": "https://api.discogs.com/releases/3673758",
+            "type": "release",
+            "id": 3673758
+        },
+        {
+            "style": [
+                "Electro"
+            ],
+            "thumb": "https://api-img.discogs.com/EY5ss-DeFjryZd1TE56vTRqrtOg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1522372-1226379848.jpeg.jpg",
+            "format": [
+                "CD",
+                "EP"
+            ],
+            "country": "Australia",
+            "barcode": [],
+            "uri": "/Breakbot-Happy-Rabbit-EP/release/1522372",
+            "community": {
+                "want": 21,
+                "have": 5
+            },
+            "label": [
+                "Timberyard Records"
+            ],
+            "catno": "T3328",
+            "year": "2008",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Happy Rabbit EP",
+            "resource_url": "https://api.discogs.com/releases/1522372",
+            "type": "release",
+            "id": 1522372
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "",
+            "format": [
+                "File",
+                "FLAC",
+                "Maxi-Single"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Baby-Im-Yours/release/5230248",
+            "community": {
+                "want": 15,
+                "have": 4
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED034",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Baby I'm Yours",
+            "resource_url": "https://api.discogs.com/releases/5230248",
+            "type": "release",
+            "id": 5230248
+        },
+        {
+            "style": [
+                "House",
+                "Disco"
+            ],
+            "thumb": "https://api-img.discogs.com/OQEp8LOpx8Hf1LzpyrnDWj_zuQM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2363577-1288052114.jpeg.jpg",
+            "format": [
+                "File",
+                "AAC",
+                "EP",
+                "File",
+                "MPEG-4 Video"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/BreakBot-Baby-Im-Yours-Remix-EP/release/2363577",
+            "community": {
+                "want": 8,
+                "have": 11
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED034.2",
+            "year": "2010",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "BreakBot - Baby I'm Yours (Remix) EP",
+            "resource_url": "https://api.discogs.com/releases/2363577",
+            "type": "release",
+            "id": 2363577
+        },
+        {
+            "style": [
+                "New Age",
+                "IDM",
+                "Experimental"
+            ],
+            "thumb": "",
+            "format": [
+                "File",
+                "MP3",
+                "Single"
+            ],
+            "country": "UK",
+            "barcode": [],
+            "uri": "/Breakbot-Happy-Rabbit-Summer-Party/release/1047880",
+            "community": {
+                "want": 6,
+                "have": 4
+            },
+            "label": [
+                "Moshi Moshi Records"
+            ],
+            "catno": "MOMO5",
+            "year": "2007",
+            "genre": [
+                "Electronic",
+                "Funk / Soul"
+            ],
+            "title": "Breakbot - Happy Rabbit / Summer Party",
+            "resource_url": "https://api.discogs.com/releases/1047880",
+            "type": "release",
+            "id": 1047880
+        },
+        {
+            "style": [
+                "Synth-pop",
+                "House"
+            ],
+            "thumb": "https://api-img.discogs.com/9We4mlihkIjcFvilshQ9h086tOw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7826850-1449607440-5889.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "Single"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Get-Lost/release/7826850",
+            "community": {
+                "want": 6,
+                "have": 3
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED089",
+            "year": "2015",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot - Get Lost",
+            "resource_url": "https://api.discogs.com/releases/7826850",
+            "type": "release",
+            "id": 7826850
+        },
+        {
+            "style": [
+                "Synth-pop",
+                "House"
+            ],
+            "thumb": "https://api-img.discogs.com/wkcKvNbyeVblEcuuUTlq1NWFGJk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4703543-1372778486-8331.jpeg.jpg",
+            "format": [
+                "File",
+                "MP3",
+                "EP"
+            ],
+            "country": "France",
+            "barcode": [],
+            "uri": "/Breakbot-Featuring-Ruckazoid-You-Should-Know/master/579379",
+            "community": {
+                "want": 62,
+                "have": 146
+            },
+            "label": [
+                "Ed Banger Records",
+                "Because Music"
+            ],
+            "catno": "ED072",
+            "year": "2013",
+            "genre": [
+                "Electronic"
+            ],
+            "title": "Breakbot ...Featuring Ruckazoid* - You Should Know",
+            "resource_url": "https://api.discogs.com/masters/579379",
+            "type": "master",
+            "id": 579379
+        }
+    ]
+}
