@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# react_music_search
+###### An Artist Lookup App
+React Music Search is an app that utilizes Disconnect, a Node.js library that connects with [Discogs.com API v2.0](https://www.discogs.com/developers/) to gather and display information on musicians. The App is build using React js.
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+## Libraries Used
+- React
+- [Create React App](https://github.com/facebookincubator/create-react-app)
+- React-Bootstrap
+- [Disconnect API](https://github.com/bartve/disconnect)
